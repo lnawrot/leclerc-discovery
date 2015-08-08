@@ -1,2 +1,2 @@
-# Guard My Property
-Windows Phone application designed to track borrowed items using NFC tags
+# Leclerc Discovery
+Application for detecting Leclerc logo on given image using image recognition techiques
